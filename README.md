@@ -1,0 +1,2 @@
+# myIonicApp
+Learning Ionic
